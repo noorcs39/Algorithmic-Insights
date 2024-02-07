@@ -1,0 +1,168 @@
+
+Experiment for 4 vertices and 12.5% of edges:
+Vertices: [(26, 13), (23, 1), (36, 15), (18, 3)]
+Maximum Weight Independent Set: [1, 2, 3]
+Maximum Weight: 27
+Execution Time: 2.1457672119140625e-05 seconds
+Number of Basic Operations: 23
+Number of Solutions Tested: 4
+
+Experiment for 4 vertices and 25.0% of edges:
+Vertices: [(27, 30), (12, 5), (35, 35), (5, 19)]
+Maximum Weight Independent Set: [1, 3]
+Maximum Weight: 13
+Execution Time: 3.719329833984375e-05 seconds
+Number of Basic Operations: 7
+Number of Solutions Tested: 4
+
+Experiment for 4 vertices and 50.0% of edges:
+Vertices: [(40, 14), (27, 18), (45, 43), (40, 36)]
+Maximum Weight Independent Set: [0, 1]
+Maximum Weight: 10
+Execution Time: 4.863739013671875e-05 seconds
+Number of Basic Operations: 7
+Number of Solutions Tested: 4
+
+Experiment for 5 vertices and 12.5% of edges:
+Vertices: [(12, 20), (33, 45), (4, 34), (44, 37), (22, 29)]
+Maximum Weight Independent Set: [0, 1, 2, 3]
+Maximum Weight: 21
+Execution Time: 2.86102294921875e-05 seconds
+Number of Basic Operations: 34
+Number of Solutions Tested: 5
+
+Experiment for 5 vertices and 25.0% of edges:
+Vertices: [(50, 29), (49, 18), (17, 12), (35, 31), (42, 4)]
+Maximum Weight Independent Set: [0, 2, 4]
+Maximum Weight: 19
+Execution Time: 2.193450927734375e-05 seconds
+Number of Basic Operations: 32
+Number of Solutions Tested: 5
+
+Experiment for 5 vertices and 50.0% of edges:
+Vertices: [(29, 20), (35, 20), (17, 3), (30, 35), (45, 21)]
+Maximum Weight Independent Set: [0, 1]
+Maximum Weight: 15
+Execution Time: 3.6716461181640625e-05 seconds
+Number of Basic Operations: 14
+Number of Solutions Tested: 5
+
+Experiment for 6 vertices and 12.5% of edges:
+Vertices: [(27, 37), (15, 14), (4, 9), (23, 32), (3, 31), (30, 34)]
+Maximum Weight Independent Set: [0, 2, 4, 5]
+Maximum Weight: 32
+Execution Time: 3.0994415283203125e-05 seconds
+Number of Basic Operations: 62
+Number of Solutions Tested: 6
+
+Experiment for 6 vertices and 25.0% of edges:
+Vertices: [(36, 43), (38, 48), (30, 39), (9, 5), (23, 5), (20, 47)]
+Maximum Weight Independent Set: [0, 1, 2, 3]
+Maximum Weight: 22
+Execution Time: 2.9325485229492188e-05 seconds
+Number of Basic Operations: 62
+Number of Solutions Tested: 6
+
+Experiment for 6 vertices and 50.0% of edges:
+Vertices: [(44, 46), (3, 4), (50, 44), (1, 45), (46, 15), (39, 15)]
+Maximum Weight Independent Set: [0, 4]
+Maximum Weight: 9
+Execution Time: 3.266334533691406e-05 seconds
+Number of Basic Operations: 21
+Number of Solutions Tested: 6
+
+Experiment for 7 vertices and 12.5% of edges:
+Vertices: [(29, 43), (15, 27), (27, 4), (19, 39), (30, 19), (26, 44), (18, 8)]
+Maximum Weight Independent Set: [0, 1, 2, 4, 5, 6]
+Maximum Weight: 30
+Execution Time: 3.6716461181640625e-05 seconds
+Number of Basic Operations: 107
+Number of Solutions Tested: 7
+
+Experiment for 7 vertices and 25.0% of edges:
+Vertices: [(5, 37), (22, 34), (35, 23), (49, 35), (26, 36), (27, 10), (19, 11)]
+Maximum Weight Independent Set: [2, 4, 5, 6]
+Maximum Weight: 30
+Execution Time: 2.2172927856445312e-05 seconds
+Number of Basic Operations: 64
+Number of Solutions Tested: 7
+
+Experiment for 7 vertices and 50.0% of edges:
+Vertices: [(49, 1), (22, 2), (18, 33), (7, 7), (37, 28), (21, 47), (38, 44)]
+Maximum Weight Independent Set: [1, 3]
+Maximum Weight: 15
+Execution Time: 3.1948089599609375e-05 seconds
+Number of Basic Operations: 22
+Number of Solutions Tested: 7
+
+Experiment for 8 vertices and 12.5% of edges:
+Vertices: [(23, 4), (25, 39), (46, 20), (49, 34), (16, 9), (8, 45), (40, 47), (10, 31)]
+Maximum Weight Independent Set: [2, 3, 4, 6]
+Maximum Weight: 26
+Execution Time: 2.5510787963867188e-05 seconds
+Number of Basic Operations: 70
+Number of Solutions Tested: 8
+
+Experiment for 8 vertices and 25.0% of edges:
+Vertices: [(29, 14), (34, 1), (24, 1), (17, 16), (19, 10), (43, 7), (2, 32), (1, 29)]
+Maximum Weight Independent Set: [0, 2, 3, 6]
+Maximum Weight: 26
+Execution Time: 2.956390380859375e-05 seconds
+Number of Basic Operations: 80
+Number of Solutions Tested: 8
+
+Experiment for 8 vertices and 50.0% of edges:
+Vertices: [(27, 8), (35, 20), (32, 49), (35, 39), (40, 5), (45, 24), (31, 37), (35, 24)]
+Maximum Weight Independent Set: [3, 5]
+Maximum Weight: 15
+Execution Time: 3.457069396972656e-05 seconds
+Number of Basic Operations: 20
+Number of Solutions Tested: 8
+
+Experiment for 9 vertices and 12.5% of edges:
+Vertices: [(15, 11), (41, 30), (6, 2), (47, 43), (32, 30), (8, 36), (43, 6), (49, 50), (39, 16)]
+Maximum Weight Independent Set: [0, 1, 2, 3, 5, 8]
+Maximum Weight: 32
+Execution Time: 4.2438507080078125e-05 seconds
+Number of Basic Operations: 177
+Number of Solutions Tested: 9
+
+Experiment for 9 vertices and 25.0% of edges:
+Vertices: [(4, 39), (35, 17), (28, 13), (47, 10), (19, 45), (4, 15), (19, 25), (7, 31), (30, 37)]
+Maximum Weight Independent Set: [8, 2, 3, 4]
+Maximum Weight: 28
+Execution Time: 2.5033950805664062e-05 seconds
+Number of Basic Operations: 95
+Number of Solutions Tested: 9
+
+Experiment for 9 vertices and 50.0% of edges:
+Vertices: [(38, 29), (17, 16), (43, 17), (17, 48), (4, 2), (47, 3), (46, 44), (28, 31), (4, 20)]
+Maximum Weight Independent Set: [8, 3]
+Maximum Weight: 18
+Execution Time: 4.315376281738281e-05 seconds
+Number of Basic Operations: 33
+Number of Solutions Tested: 9
+
+Experiment for 10 vertices and 12.5% of edges:
+Vertices: [(40, 36), (25, 12), (48, 17), (16, 38), (20, 39), (32, 42), (22, 42), (34, 47), (13, 11), (30, 11)]
+Maximum Weight Independent Set: [0, 1, 2, 3, 5, 6, 8]
+Maximum Weight: 46
+Execution Time: 4.220008850097656e-05 seconds
+Number of Basic Operations: 226
+Number of Solutions Tested: 10
+
+Experiment for 10 vertices and 25.0% of edges:
+Vertices: [(38, 36), (4, 23), (33, 39), (23, 45), (47, 45), (20, 35), (27, 6), (2, 2), (3, 37), (24, 40)]
+Maximum Weight Independent Set: [8, 1, 3, 6]
+Maximum Weight: 27
+Execution Time: 4.673004150390625e-05 seconds
+Number of Basic Operations: 79
+Number of Solutions Tested: 10
+
+Experiment for 10 vertices and 50.0% of edges:
+Vertices: [(22, 11), (48, 43), (17, 39), (19, 39), (4, 2), (29, 32), (6, 7), (21, 40), (27, 19), (10, 12)]
+Maximum Weight Independent Set: [0, 1]
+Maximum Weight: 11
+Execution Time: 4.9114227294921875e-05 seconds
+Number of Basic Operations: 13
+Number of Solutions Tested: 10

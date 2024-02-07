@@ -1,0 +1,49 @@
+
+Experiment for 4 vertices:
+Maximum Weight Independent Set: [0, 1]
+Maximum Weight: 12
+Execution Time: 7.653236389160156e-05 seconds
+Number of Basic Operations: 80
+Number of Solutions Tested: 15
+
+Experiment for 5 vertices:
+Maximum Weight Independent Set: [0, 2]
+Maximum Weight: 13
+Execution Time: 7.915496826171875e-05 seconds
+Number of Basic Operations: 240
+Number of Solutions Tested: 31
+
+Experiment for 6 vertices:
+Maximum Weight Independent Set: [1, 2, 5]
+Maximum Weight: 25
+Execution Time: 0.00014925003051757812 seconds
+Number of Basic Operations: 672
+Number of Solutions Tested: 63
+
+Experiment for 7 vertices:
+Maximum Weight Independent Set: [2, 4, 6]
+Maximum Weight: 23
+Execution Time: 0.00026535987854003906 seconds
+Number of Basic Operations: 1792
+Number of Solutions Tested: 127
+
+Experiment for 8 vertices:
+Maximum Weight Independent Set: [0, 1, 2, 7]
+Maximum Weight: 25
+Execution Time: 0.00039124488830566406 seconds
+Number of Basic Operations: 4608
+Number of Solutions Tested: 255
+
+Experiment for 9 vertices:
+Maximum Weight Independent Set: [0, 2, 3, 6]
+Maximum Weight: 30
+Execution Time: 0.001356363296508789 seconds
+Number of Basic Operations: 11520
+Number of Solutions Tested: 511
+
+Experiment for 10 vertices:
+Maximum Weight Independent Set: [0, 1, 8, 9]
+Maximum Weight: 21
+Execution Time: 0.002033710479736328 seconds
+Number of Basic Operations: 28160
+Number of Solutions Tested: 1023

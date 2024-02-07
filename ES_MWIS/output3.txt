@@ -1,0 +1,56 @@
+
+Experiment for 4 vertices:
+Vertices: [(26, 13), (23, 1), (36, 15), (18, 3)]
+Maximum Weight Independent Set: [(26, 13), (23, 1), (36, 15)]
+Maximum Weight: 25
+Execution Time: 8.893013000488281e-05 seconds
+Number of Basic Operations: 80
+Number of Solutions Tested: 15
+
+Experiment for 5 vertices:
+Vertices: [(27, 30), (35, 35), (21, 40), (12, 5), (27, 12)]
+Maximum Weight Independent Set: [(35, 35), (27, 12)]
+Maximum Weight: 20
+Execution Time: 6.985664367675781e-05 seconds
+Number of Basic Operations: 240
+Number of Solutions Tested: 31
+
+Experiment for 6 vertices:
+Vertices: [(24, 10), (37, 41), (41, 25), (26, 19), (9, 43), (5, 9)]
+Maximum Weight Independent Set: [(24, 10), (37, 41), (9, 43)]
+Maximum Weight: 18
+Execution Time: 0.0001468658447265625 seconds
+Number of Basic Operations: 672
+Number of Solutions Tested: 63
+
+Experiment for 7 vertices:
+Vertices: [(41, 4), (48, 33), (30, 45), (35, 35), (20, 29), (34, 12), (21, 30)]
+Maximum Weight Independent Set: [(41, 4), (35, 35), (34, 12), (21, 30)]
+Maximum Weight: 27
+Execution Time: 0.0002498626708984375 seconds
+Number of Basic Operations: 1792
+Number of Solutions Tested: 127
+
+Experiment for 8 vertices:
+Vertices: [(27, 37), (15, 40), (6, 21), (4, 9), (23, 32), (43, 36), (3, 31), (30, 34)]
+Maximum Weight Independent Set: [(15, 40), (6, 21), (23, 32), (43, 36)]
+Maximum Weight: 35
+Execution Time: 0.0005555152893066406 seconds
+Number of Basic Operations: 4608
+Number of Solutions Tested: 255
+
+Experiment for 9 vertices:
+Vertices: [(6, 8), (10, 1), (27, 33), (44, 22), (49, 18), (46, 9), (8, 44), (41, 22), (41, 41)]
+Maximum Weight Independent Set: [(6, 8), (10, 1), (46, 9)]
+Maximum Weight: 24
+Execution Time: 0.0005621910095214844 seconds
+Number of Basic Operations: 11520
+Number of Solutions Tested: 511
+
+Experiment for 10 vertices:
+Vertices: [(18, 27), (2, 1), (45, 10), (37, 22), (34, 35), (20, 29), (35, 22), (40, 41), (23, 5), (11, 49)]
+Maximum Weight Independent Set: [(45, 10), (35, 22), (40, 41), (11, 49)]
+Maximum Weight: 19
+Execution Time: 0.0010437965393066406 seconds
+Number of Basic Operations: 28160
+Number of Solutions Tested: 1023
