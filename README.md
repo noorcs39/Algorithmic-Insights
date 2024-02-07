@@ -29,11 +29,11 @@ This GitHub repository is dedicated to addressing the optimization problem of Ma
 ## Contributions
 Contributions are welcome! If you have improvements or new algorithms for MWIS, feel free to submit a pull request.
 
+
 ## Acknowledgments
 This project aims to enhance the implementation of MWIS algorithms, addressing the existing gaps in the understanding of Greedy Heuristics and Exhaustive Search methods.
-## Acknowledgments
 This project owes its existence to the invaluable contributions and guidance from:
-- Dr. Nooruddin Noonari
+- [Dr. Nooruddin Noonari](https://www.linkedin.com/in/noonari/)
 - Dr. Kaleem Arshad
 
 Their expertise and insights have significantly shaped and enriched the implementation of MWIS algorithms in this repository. We extend our gratitude for their dedicated support and mentorship.
