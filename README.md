@@ -31,6 +31,13 @@ Contributions are welcome! If you have improvements or new algorithms for MWIS, 
 
 ## Acknowledgments
 This project aims to enhance the implementation of MWIS algorithms, addressing the existing gaps in the understanding of Greedy Heuristics and Exhaustive Search methods.
+## Acknowledgments
+This project owes its existence to the invaluable contributions and guidance from:
+- Dr. Nooruddin Noonari
+- Dr. Kaleem Arshad
+
+Their expertise and insights have significantly shaped and enriched the implementation of MWIS algorithms in this repository. We extend our gratitude for their dedicated support and mentorship.
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
